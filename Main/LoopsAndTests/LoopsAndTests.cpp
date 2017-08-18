@@ -83,5 +83,3 @@ int main()
 	std::cout << accept_while() << "\n";
     return 0;
 }
-
-// Next step: 2.2.5 Pointers *yay!*
